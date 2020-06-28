@@ -22,6 +22,7 @@ body {
     font-size: 48px;
 }
 
+
 .navigation h1 .seo {
     color: #d9dcd6;
 }
@@ -33,11 +34,7 @@ body {
     font-size: 20px;
 }
 
-.navigation div ul {
-    list-style-type: none;
-}
-
-.navigation div ul li {
+.navigation a {
     display: inline-block;
     margin-left: 25px;
 }
