@@ -12,16 +12,15 @@ body {
 
 .navigation {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
 .navigation h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: inline-block;
     font-size: 48px;
 }
-
 
 .navigation h1 .seo {
     color: #d9dcd6;
@@ -56,6 +55,7 @@ a {
 p {
     font-size: 16px;
 }
+
 
 .float-left {
     float: left;
