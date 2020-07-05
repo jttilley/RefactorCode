@@ -1,4 +1,7 @@
-# wk1-homework Git: code Refactor
+# wk1-homework Git: Code Refactoring
+
+## Refactored page link:
+https://jttilley.github.io/RefactorCode/
 
 ## Goal
 The goal of this project was to refactor the html and css code to make it meet accessibility standards and to make sure the code is easy to follow semantically and make sure all links work.
@@ -10,3 +13,4 @@ The goal of this project was to refactor the html and css code to make it meet a
 * Made sure links point to proper IDs
 * Combined CSS into a higher level element where ever it was duplicated 
 * reordered some things so they followed a similar structure in the CSS as the HTML
+
